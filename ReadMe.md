@@ -1,4 +1,4 @@
 Team Calculator
 
-Design: Magomed
+Design: Magomed\
 Logic: Isa
